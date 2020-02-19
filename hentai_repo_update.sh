@@ -19,3 +19,5 @@ rm -rf hardware/qcom/sdm845/display/libdrmutils
 rm -rf hardware/qcom/sdm845/display/libdisplayconfig
 rm -rf hardware/qcom/sdm845/display/gralloc
 rm -rf hardware/qcom/media/sm8150/libstagefrighthw
+
+echo "all hentai patches applied successfully!"
