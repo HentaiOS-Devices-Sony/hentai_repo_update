@@ -13,3 +13,4 @@ rm -rf hardware/qcom/sdm845/display/sdm/libs/core
 rm -rf hardware/qcom/sdm845/display/liblight
 rm -rf hardware/qcom/sdm845/display/libmemtrack
 rm -rf hardware/qcom/sdm845/display/hdmi_cec
+rm -rf hardware/qcom/sdm845/display/sdm/libs/hwc2
