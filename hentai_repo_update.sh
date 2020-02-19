@@ -18,4 +18,4 @@ rm -rf hardware/qcom/sdm845/display/gpu_tonemapper
 rm -rf hardware/qcom/sdm845/display/libdrmutils
 rm -rf hardware/qcom/sdm845/display/libdisplayconfig
 rm -rf hardware/qcom/sdm845/display/gralloc
-
+rm -rf hardware/qcom/media/sm8150/libstagefrighthw
