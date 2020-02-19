@@ -14,3 +14,4 @@ rm -rf hardware/qcom/sdm845/display/liblight
 rm -rf hardware/qcom/sdm845/display/libmemtrack
 rm -rf hardware/qcom/sdm845/display/hdmi_cec
 rm -rf hardware/qcom/sdm845/display/sdm/libs/hwc2
+rm -rf hardware/qcom/sdm845/display/gpu_tonemapper
