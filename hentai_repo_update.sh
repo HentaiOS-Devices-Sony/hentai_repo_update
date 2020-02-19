@@ -16,3 +16,4 @@ rm -rf hardware/qcom/sdm845/display/hdmi_cec
 rm -rf hardware/qcom/sdm845/display/sdm/libs/hwc2
 rm -rf hardware/qcom/sdm845/display/gpu_tonemapper
 rm -rf hardware/qcom/sdm845/display/libdrmutils
+rm -rf hardware/qcom/sdm845/display/libdisplayconfig
