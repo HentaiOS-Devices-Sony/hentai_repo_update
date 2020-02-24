@@ -1,4 +1,3 @@
- 
 #!/bin/bash
 
 # exit script immediately if a command fails
