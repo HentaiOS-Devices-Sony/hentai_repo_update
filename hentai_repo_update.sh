@@ -11,4 +11,6 @@ rm -rf vendor/codeaurora/telephony/ims
 rm -rf hardware/qcom-caf/common/fwk-detect
 rm -rf hardware/qcom/sdm845
 
+echo ""
 echo "all hentai patches applied successfully!"
+echo ""
